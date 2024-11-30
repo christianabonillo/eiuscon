@@ -1,0 +1,2 @@
+  let fraction = labelFraction(scale);
+  
